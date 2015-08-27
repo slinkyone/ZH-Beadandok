@@ -1,0 +1,4 @@
+10.0.0.3 , 10.0.0.1 , 8.8.8.8 , 192.168.0.1 , 192.168.0.5 , [MESSAGE] Title: Title, Content: alma korte szilva
+LOOP
+10.0.0.3 , 10.0.0.1 , 8.8.8.8 , [MESSAGE] Title: Fontos, Content: ez is egy UZENET
+OUT
